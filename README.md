@@ -4,7 +4,9 @@ TagChi Version 4 by @TecNow_Fa
 Installing : 
 
 git clone https://github.com/TecNowTm/TagChi-V4/edit/master/README.md
+
 cd TagChi-V4 
+
 ./tg -s bot.lua
 
 
